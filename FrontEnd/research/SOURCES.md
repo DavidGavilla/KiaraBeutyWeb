@@ -31,7 +31,7 @@ Investigación realizada el **5 de octubre de 2026**.
 
 ### ⚠️ Discrepancias que confirmar con el negocio
 
-- **Horario:** Instagram y Google Maps indican **10:00–18:00**; Koibox indica **09:30–18:00** (lunes a viernes). La web muestra 10:00–18:00 (dos fuentes) y debe confirmarse.
+- **Horario:** Instagram y Google Maps indican **10:00–18:00**; Koibox indica **09:30–18:00** (lunes a viernes). La web muestra **09:30–18:00** (como Koibox), por indicación del responsable de la propuesta.
 - **Accesibilidad:** no se ha podido confirmar si el edificio tiene **ascensor**. La web no lo afirma y pide consultar antes de la visita.
 - **Mascotas:** hay un destacado llamado «PetFriendly🐾», pero no se ha podido ver su contenido; no se menciona en la web.
 - **Reseñas:** Google indica «Las reseñas no se verifican». Se usan extractos breves, con el autor abreviado y enlace a la ficha.

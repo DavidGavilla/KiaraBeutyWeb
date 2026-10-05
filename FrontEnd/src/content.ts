@@ -73,11 +73,11 @@ export const business = {
 
 /** Weekly opening hours, Monday first. `null` = closed. */
 export const hours: { day: Localized; time: string | null }[] = [
-  { day: { es: 'Lunes', en: 'Monday' }, time: '10:00 – 18:00' },
-  { day: { es: 'Martes', en: 'Tuesday' }, time: '10:00 – 18:00' },
-  { day: { es: 'Miércoles', en: 'Wednesday' }, time: '10:00 – 18:00' },
-  { day: { es: 'Jueves', en: 'Thursday' }, time: '10:00 – 18:00' },
-  { day: { es: 'Viernes', en: 'Friday' }, time: '10:00 – 18:00' },
+  { day: { es: 'Lunes', en: 'Monday' }, time: '09:30 – 18:00' },
+  { day: { es: 'Martes', en: 'Tuesday' }, time: '09:30 – 18:00' },
+  { day: { es: 'Miércoles', en: 'Wednesday' }, time: '09:30 – 18:00' },
+  { day: { es: 'Jueves', en: 'Thursday' }, time: '09:30 – 18:00' },
+  { day: { es: 'Viernes', en: 'Friday' }, time: '09:30 – 18:00' },
   { day: { es: 'Sábado', en: 'Saturday' }, time: null },
   { day: { es: 'Domingo', en: 'Sunday' }, time: null },
 ]
@@ -380,7 +380,7 @@ export const ui = {
     facts: [
       ['5,0', 'en Google · 19 reseñas'],
       ['Vegana', 'y cruelty-free'],
-      ['L – V', '10:00 – 18:00'],
+      ['L – V', '09:30 – 18:00'],
     ],
     servicesEyebrow: 'Carta de tratamientos',
     servicesTitle: 'Todo lo que puedes reservar',
@@ -460,7 +460,7 @@ export const ui = {
     facts: [
       ['5.0', 'on Google · 19 reviews'],
       ['Vegan', '& cruelty-free'],
-      ['Mon – Fri', '10:00 – 18:00'],
+      ['Mon – Fri', '09:30 – 18:00'],
     ],
     servicesEyebrow: 'Treatment menu',
     servicesTitle: 'Everything you can book',
