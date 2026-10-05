@@ -1,0 +1,24 @@
+{
+  "name": "kiara-beauty-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5174 --strictPort",
+    "build": "tsc && vite build",
+    "typecheck": "tsc",
+    "preview": "vite preview --port 5174 --strictPort",
+    "images": "node scripts/optimize-images.mjs",
+    "check:e2e": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.5",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/figtree": "^5.3.0",
+    "@fontsource-variable/fraunces": "^5.3.0"
+  }
+}
